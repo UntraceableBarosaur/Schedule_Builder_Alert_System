@@ -16,7 +16,6 @@ original_url='https://schedulebuilder.umn.edu/api.php?type=sections&institution=
 query_url='https://schedulebuilder.umn.edu/api.php?type=sections&institution=UMNTC&campus=UMNTC&term=1193&class_nbrs='
 
 #The recipients that should be emailed if a space is found
-#recipients=["cody0041@umn.edu","owenwscody@gmail.com","owenccody@gmail.com","6128605674@txt.att.net"]
 recipients=[]
 
 #The class ID's that should be checked for availability
